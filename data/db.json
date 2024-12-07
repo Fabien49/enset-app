@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Computer",
+      "price": "56000",
+      "checked": true
+    },
+    {
+      "id": "2",
+      "name": "Printer",
+      "price": 3200,
+      "checked": false
+    },
+    {
+      "id": "d84d",
+      "name": "Smart phone",
+      "price": "1800",
+      "checked": true
+    },
+    {
+      "name": "jkjjk",
+      "price": "56000",
+      "checked": false,
+      "id": "Wk8F-jD"
+    },
+    {
+      "name": "ssdsdsd",
+      "price": "1204",
+      "checked": true,
+      "id": "xIb-7sQ"
+    },
+    {
+      "name": "ssdsdsd",
+      "price": "1204",
+      "checked": false,
+      "id": "P5goajA"
+    },
+    {
+      "name": "ssdsdsd",
+      "price": "1204",
+      "checked": true,
+      "id": "DIaBTP3"
+    },
+    {
+      "name": "ssdsdsd",
+      "price": "1204",
+      "checked": false,
+      "id": "EEDeJ36"
+    },
+    {
+      "name": "ssdsdsd",
+      "price": "1204",
+      "checked": true,
+      "id": "8MgIwpj"
+    },
+    {
+      "name": "coucou",
+      "price": "1123",
+      "checked": false,
+      "id": "9k0GZ-u"
+    }
+  ]
+}
